@@ -19,9 +19,7 @@
 ---
 
 ### :man_technologist: About Me : I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I work as a junior iOS Developer and contribute to the development of mobile applications.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- I am starting my career as an iOS developer and I want to learn from experienced professionals in this field. I am sure that my desire to develop mobile applications and willingness to learn will make me a valuable employee for any team. I am a highly motivated and purposeful person, I pay great attention to details and am able to work effectively both independently and as part of a team. I am always open to feedback and strive to constantly improve my skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dmitriy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-velko-16698b201/)
 ---
