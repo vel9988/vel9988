@@ -23,7 +23,6 @@
 
 - :mailbox: How to reach me: 
 - [![Linkedin Badge](https://img.shields.io/badge/-dmitriy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-velko-16698b201/)
-- :fax: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@L0gotip)
 ---
 
 ### :hammer_and_wrench: Languages :
