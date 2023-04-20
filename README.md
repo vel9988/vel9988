@@ -25,14 +25,10 @@
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L0gotip) 
 
-[![My Skills](https://skillicons.dev/icons?i=swift,figma)](https://skillicons.dev)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
-<div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-<div>
+[![My Skills](https://skillicons.dev/icons?i=swift,figma)](https://skillicons.dev)
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vel9988&theme=dark&background=000000)](https://git.io/streak-stats)
