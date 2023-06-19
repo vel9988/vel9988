@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me : I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I am starting my career as an iOS developer and I want to learn from experienced professionals in this field. I am sure that my desire to develop mobile applications and willingness to learn will make me a valuable employee for any team. I am a highly motivated and purposeful person, I pay great attention to details and am able to work effectively both independently and as part of a team. I am always open to feedback and strive to constantly improve my skills.
+- I am an iOS developer striving for constant growth and improvement. I am attracted to the dynamic and innovative field of application development, especially in the context of Apple. I am a highly motivated and purposeful person, I adapt well to new requirements and quickly master new concepts. I pay great attention to details and am able to work effectively both independently and as part of a team. Always open for feedback.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L0gotip) 
 
